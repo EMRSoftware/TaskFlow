@@ -7,7 +7,7 @@
 Modern, animasyonlu ve kurumsal düzeyde bir görev yönetim uygulaması.
 React + Vite + TypeScript + Tailwind CSS ile geliştirilmiştir.
 
-![TaskFlow Ekran Görüntüsü](Ekran%20Goruntusu.png)
+![TaskFlow Ekran Görüntüsü](screenshot.png)
 
 </div>
 
